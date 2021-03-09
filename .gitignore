@@ -4,3 +4,4 @@ obj/
 AzureKeys.cs
 .vscode/tasks.json
 .vscode/launch.json
+APIKeys.cs
